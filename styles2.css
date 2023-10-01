@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+h1 {
+
+    margin: 0 auto;
+    font-size: 3.5rem;
+
+}
+
+h2 {
+    font-size: 2em;
+}
+
+hr {
+    width: 30%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    margin-top: 50px;
+
+
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.topcontainer {
+    background-color: lightblue;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middle-container {
+    position: relative;
+    padding-top: 5em;
+
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.program-img {
+    padding: 20px;
+    float: left;
+}
+
+.paint {
+    padding: 20px;
+    float: left;
+}
+
+.bottom-cloud {
+    position: absolute;
+
+    height: 200px;
+    width: 300px;
+    left: 20px;
+
+}
+
+.bottom-cloud2 {
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    right: 20px;
+
+}
+
+.mountain-image {
+    position: relative;
+
+}
+
+.welcome {
+    /* text-align: center; */
+    width: 0 auto 0 auto;
+
+    display: relative;
+    right: 50%;
+    font: bold 18px arial;
+    padding-top: 15px;
+
+}
